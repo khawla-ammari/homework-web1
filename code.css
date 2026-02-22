@@ -1,0 +1,16 @@
+body {
+  font-family: Cambria, Cochin, Cambria, Cochin;
+}
+span{
+    color: green;
+}
+u{
+    color: red;
+}
+.center{
+   text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
